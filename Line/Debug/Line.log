@@ -1,0 +1,5 @@
+﻿  Line.cpp
+C:\Users\Anatoliy\source\repos\Line\Line\Line.cpp(114,12): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  Line.vcxproj -> C:\Users\Anatoliy\source\repos\Line\Debug\Line.exe
